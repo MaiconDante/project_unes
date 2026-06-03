@@ -1,41 +1,88 @@
 # 🌟 Site UNES - Universidade
-Este projeto foi desenvolvido como parte do Curso de Desenvolvimento Web Completo da Udemy.
+
+Este projeto foi desenvolvido como parte do curso **Desenvolvimento Web Completo** da Udemy, com o objetivo de praticar os conceitos fundamentais de HTML.
 
 ## 📷 Demonstração
-URL -> <a href="https://maicondante.github.io/Projeto_Unes/">Projeto Unes</a>
+
+**URL:** -> <a href="https://maicondante.github.io/Projeto_Unes/">Projeto Unes</a>
+
+---
 
 ## 📚 Sobre o Projeto
-O Site UNES é uma simulação de um site institucional de uma universidade fictícia. O objetivo do projeto é aplicar os conceitos básicos de HTML apresentados no início do curso, com foco em estruturação e organização de páginas web utilizando exclusivamente tabelas, uma técnica que era amplamente utilizada nas primeiras fases da construção de sites, antes da popularização do CSS para layout.
+
+O Site UNES é uma simulação de um portal institucional de uma universidade fictícia.
+
+O projeto foi criado para aplicar os conceitos iniciais de HTML, focando na estruturação e organização de páginas web utilizando exclusivamente tabelas, técnica amplamente utilizada antes da popularização do CSS para criação de layouts.
+
+---
 
 ## 🛠️ Tecnologias Utilizadas
-* HTML (sem CSS ou JavaScript)
 
-* Tabelas para estruturação da página
+* HTML5
+* Tabelas para estruturação de layout
+* Links de navegação entre páginas
+
+---
 
 ## 📄 Estrutura do Site
-O site contém páginas clássicas como:
 
-Página Home
+O projeto é composto pelas seguintes páginas:
 
-Página Quem Somos da universidade
+* 🏠 Página Inicial
+* 🏛️ Quem Somos
+* 📞 Contato
 
-Página de Contato
+Todas as páginas foram desenvolvidas respeitando a proposta do módulo, utilizando apenas HTML e tabelas para organização dos elementos.
 
-Todas as páginas foram desenvolvidas respeitando a proposta de uso exclusivo de tabelas para disposição dos elementos na tela, simulando práticas antigas de desenvolvimento web.
+---
 
-## 🎯 Objetivo Educacional
-Este projeto tem como finalidade:
+## 🎯 Objetivos de Aprendizagem
 
-Fixar os conceitos iniciais de HTML
+Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
-Compreender como os sites eram estruturados antigamente
+* Estrutura básica de documentos HTML
+* Utilização de tabelas para layout
+* Inserção de imagens
+* Criação de links e navegação entre páginas
+* Organização e semântica básica de conteúdo
+* Estruturação de múltiplas páginas
 
-Valorizar a evolução do desenvolvimento web com a introdução de práticas modernas
+---
+
+## 🚀 Como Executar o Projeto
+
+1. Clone este repositório:
+
+```bash
+git clone https://github.com/seu-usuario/seu-repositorio.git
+```
+
+2. Acesse a pasta do projeto.
+
+3. Abra o arquivo `index.html` em seu navegador.
+
+---
 
 ## 🚧 Status do Projeto
-✔️ Finalizado – Projeto concluído conforme proposto no módulo inicial do curso.
+
+✅ Finalizado
+
+Projeto concluído conforme proposto no módulo introdutório do curso.
+
+---
 
 ## 👨‍🏫 Curso
-Curso: Desenvolvimento Web Completo - Udemy
-Instrutor: [Jamilton Damasceno]
-Plataforma: Udemy
+
+**Curso:** Desenvolvimento Web Completo
+
+**Instrutor:** Jamilton Damasceno
+
+**Plataforma:** Udemy
+
+---
+
+## 👨‍💻 Autor
+
+Maicon Dante
+
+Estudante de Engenharia da Computação e Pós-Graduando em Desenvolvimento de Sistemas com Python.
